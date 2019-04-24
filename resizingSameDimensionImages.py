@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 24 10:20:11 2019
 
-@author: antho
+@author: Anthony Pitts
 """
 
 #from gimpfu import *
